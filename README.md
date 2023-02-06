@@ -11,4 +11,5 @@ I have been developing mobile applications for 2 years . As a native language I 
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/berat-can-bedük-16b12a201)
+&nbsp; 
