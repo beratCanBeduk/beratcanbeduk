@@ -11,3 +11,4 @@ I have been developing mobile applications for 2 years . As a native language I 
 
 
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
