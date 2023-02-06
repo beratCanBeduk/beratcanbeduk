@@ -10,6 +10,3 @@ I have been developing mobile applications for 2 years . As a native language I 
 - 😄 Languages : Turkish / English 
 
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/berat-can-bedük-16b12a201)
-&nbsp; 
